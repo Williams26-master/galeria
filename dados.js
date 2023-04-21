@@ -78,4 +78,30 @@ let dados = [
         descricao:'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic reiciendis est totam, provident possimus dignissimos illum harum quod aliquid ex?',
         url:'https://picsum.photos/400/262'
     },
+    {
+        projeto: 'Projeto 08',
+        titulo:'Projeto 08',
+        descricao:'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic reiciendis est totam, provident possimus dignissimos illum harum quod aliquid ex?',
+        url:'https://picsum.photos/400/263'
+    }, {
+        projeto: 'Projeto 09',
+        titulo:'Projeto 09',
+        descricao:'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic reiciendis est totam, provident possimus dignissimos illum harum quod aliquid ex?',
+        url:'https://picsum.photos/400/264'
+    }, {
+        projeto: 'Projeto 10',
+        titulo:'Projeto 10',
+        descricao:'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic reiciendis est totam, provident possimus dignissimos illum harum quod aliquid ex?',
+        url:'https://picsum.photos/400/265'
+    }, {
+        projeto: 'Projeto 11',
+        titulo:'Projeto 11',
+        descricao:'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic reiciendis est totam, provident possimus dignissimos illum harum quod aliquid ex?',
+        url:'https://picsum.photos/400/266'
+    }, {
+        projeto: 'Projeto 12',
+        titulo:'Projeto 12',
+        descricao:'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic reiciendis est totam, provident possimus dignissimos illum harum quod aliquid ex?',
+        url:'https://picsum.photos/400/267'
+    },
 ]
